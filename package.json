@@ -1,0 +1,27 @@
+{
+  "name": "scraping-with-mongoose",
+  "version": "1.0.0",
+  "description": "Web Scrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdibasid1436/Scraping-with-Mongoose.git"
+  },
+  "author": "Abdibasid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdibasid1436/Scraping-with-Mongoose/issues"
+  },
+  "homepage": "https://github.com/Abdibasid1436/Scraping-with-Mongoose#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.2.14",
+    "request": "^2.88.0"
+  }
+}
