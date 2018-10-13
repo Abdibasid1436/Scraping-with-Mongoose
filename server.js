@@ -3,6 +3,7 @@ var mongoose = require("mongoose");
 var expressHandlebars = require("express-handlebars");
 var bodyParser = require("body-parser");
 var path = require("path");
+require ("dotenv").config();
 
 // Set up port 
 var PORT = process.env.PORT || 3000;
